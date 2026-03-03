@@ -25,6 +25,7 @@ From-scratch neural network implementations developed for UCS761 coursework.
 | **4** | Linear Regression Neuron | Implemented a neural formulation of regression with explicit forward and backward propagation. Explored how gradient flow influences continuous prediction tasks. | [Open](./LAB_4(Linear_Regression_Neuron(1)).ipynb) |
 | **5** | Learning to Bend a Model | Constructed a two-layer neural network to approximate nonlinear relationships using ReLU activation. Full backpropagation was implemented manually without deep learning frameworks. | [Open](./LAB_5(Learning_to_Bend).ipynb) |
 | **6** | Shallow vs Deep Networks | Compared shallow and deep architectures to analyze gradient behavior and training stability. Investigated how activation choice and depth affect convergence. | [Open](./LAB_6(Shallow_vs_Deep).ipynb) |
+| **7** | From Numbers to Vision | Implemented dense and convolutional neural networks from scratch to transition from structured numerical data to image-based learning. Compared depth, activation functions, pooling, dropout, and optimizers (SGD, Momentum, Adam). Analyzed gradient behavior, parameter efficiency, and generalization performance. | [Open](./LAB_7/Lab_7_DL.ipynb) |
 
 ---
 
